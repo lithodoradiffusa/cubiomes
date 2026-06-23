@@ -129,6 +129,7 @@
 --include-constant MC_1_9_4
 --include-constant MC_26_1
 --include-constant MC_26_2
+--include-constant MC_26_3
 --include-constant MC_B1_7
 --include-constant MC_B1_8
 --include-constant MC_NEWEST
@@ -151,6 +152,7 @@
 --include-constant coldTaigaHills
 --include-constant cold_ocean
 --include-constant crimson_forest
+--include-constant dappled_forest
 --include-constant dark_forest
 --include-constant dark_forest_hills
 --include-constant deepOcean

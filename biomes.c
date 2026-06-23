@@ -11,6 +11,9 @@ int biomeExists(int mc, int id)
         if (id >= small_end_islands && id <= end_barrens)
             return 1;
 
+        if (id == dappled_forest)
+            return mc >= MC_26_3;
+
         if (id == sulfur_caves)
             return mc >= MC_26_2;
 

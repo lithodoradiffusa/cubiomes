@@ -7724,6 +7724,10 @@ static const int g_biome_para_range_262_diff[][13] = {
 {sulfur_caves            ,  IMIN, IMAX,  IMIN, IMAX,  IMIN, IMAX,  IMIN, IMAX,  2000, 9000,  IMIN,-9500},
 {-1,0,0,0,0,0,0,0,0,0,0,0,0}};
 
+static const int g_biome_para_range_263_diff[][13] = {
+{dappled_forest          ,  -4500, -1500,  IMIN, -3500,  -1900, IMAX,  IMIN, IMAX,  IMIN, IMAX,  IMIN, IMAX},
+{-1,0,0,0,0,0,0,0,0,0,0,0,0}};
+
 /**
  * Gets the min/max parameter values within which a biome change can occur.
  */
